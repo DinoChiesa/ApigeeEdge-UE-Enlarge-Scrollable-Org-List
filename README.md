@@ -4,7 +4,7 @@ This is a [Tampermonkey](https://tampermonkey.net/) script that tweaks
 the [Apigee Edge](https://apigee.com) UI to make the scrollable org list larger.
 Also it adds a filter box.
 
-![screengrab](img/scrollable-drop.gif)
+![screengrab](img/filter-orglist.gif)
 
 
 ## What is Tampermonkey?
